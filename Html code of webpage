@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang = "en">
+
+<head> 
+    <meta charset="utf-8">
+    <meta name="viewport" content = "width=device-width">
+
+    <title> Bhukkhad </title>
+    <meta name = "description" content = "A brief description">
+    <meta name = "author" content = "Bhukkhad">
+
+    <! including css file > 
+    <link rel = "stylesheet" href = "Bhukkhad.css">
+    <link rel = "preconnect" href = "https://https://fonts.google.com/">
+
+</head>
+<body> 
+    <header> 
+        <img src = "Bhukkhad.png" >
+    </header>
+    <nav>
+        <ul> 
+        <li> <a href = "Bhukkhad.html">Home</a>
+        <li> <a href = "menu.html">Menu</a>   
+        <li> <a href = "book.html">Book</a> 
+        <li> <a href = "about.html">About</a>
+        </ul>
+    </nav>
+    <main> 
+        <section>
+            <article id = "hera">
+                <h1 class = "heading"> 20% Off This Weekend </h1> 
+            </article>
+        </section>
+
+        <section> 
+            <article> 
+                <img src="bookt.jpg"  class="center ">
+                <h2> Book a Table </h2>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit unde, similique exercitationem impedit dolorum eveniet consectetur labore! Aspernat veritatis voluptatibus in? Accusamus eligendi id eveniet veritatis repellendus incidunt obcaecati.
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod temporibus fugiat assumenda aspernatur autem culpa quam architecto impedit illo, quos dignissimos consequuntur, ut amet incidunt mollitia molestias iusto laudantium. Consectetur voluptates natus voluptatem sit error numquam ex nobis vel porro quo. Quas quasi delectus aspernatur itaque mollitia! Architecto fuga totam aut neque est cupiditate vitae enim quia beatae ipsum 
+                    <br>
+                    <a href = "book.htm" id = "book"> Book a Table</a>
+                    
+                </p>
+            </article>
+
+            <article> 
+                <img src="mmenu.jpg" class = "center">
+                <h2> Our new menu </h2>
+                <p>
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Neque sed odio dolore, vitae aut aliquid atque. Ad, recusandae ratione, quia commodi, nulla at nisi nemo assumenda blanditiis id officiis enim? Et asperiores neque expedita rem at nostrum quod similique excepturi quidem reiciendis perferendis quae consequatur consequuntur explicabo repudiandae accusamus mollitia a molestiae, vel incidunt. Molestias veniam dolor necessitatibus, esse blanditiis earum repudiandae labore soluta quisquam, velit, iusto maiores officia totam facilis quas reiciendis iure eos in! Eius molestiae consequatur ipsum, maxime 
+                    <br>
+            <a href = "view.htm"> View menu</a>
+                </p>
+            </article>
+
+            <article>
+                <img src="open.jpg" class = "center"> 
+                <h2> Opening hours </h2>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque obcaecati, explicabo optio eligendi, veritatis accusamus expedita sunt ipsum sint ipsam reprehenderit. Illum itaque natus dicta distinctio fuga. Dolor perferendis enim corporis ad, dolorem veritatis eveniet eaque vel facere, eos harum sapiente repudiandae nobis ipsam hic obcaecati aliquam ex natus commodi fuga laudantium! Quo, architecto perspiciatis? Culpa voluptas ut expedita laboriosam at perferendis laborum optio recusandae illum? Mollitia officiis nesciunt reiciendis pariatur velit eius nostrum fugit quasi rerum asperiores error repellendus 
+                </p>
+            </article>          
+        </section>
+    </main>
+    <footer>
+        <div> 
+            <img src = "Bhukkhad.png" height="50px">
+        </div>
+        <div > 
+            <p > Copyright Bhukkhad  </p>
+        </div>
+    </footer>
+</body>
+</html>
